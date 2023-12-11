@@ -1,0 +1,9 @@
+.cont1 {
+  padding-left: 0;
+}
+.card {
+  margin-bottom: 20px;
+  width: 320px;
+  height: 600px;
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.03), 0 2px 0 rgba(0, 0, 0, 0.05);
+}
